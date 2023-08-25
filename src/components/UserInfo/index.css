@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.user-info-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile-image {
+  width: 100px;
+}
+.name {
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #12022f;
+  font-size: 18px;
+  margin-bottom: 0;
+}
+.job-role {
+  font-family: 'Roboto';
+  font-weight: 400;
+  color: #616e7c;
+  font-size: 16px;
+}
